@@ -1,2 +1,7 @@
-# Fake-News-Detection-Using-Machine-Learning
-The goal of this project is to build a machine learning model that classifies news articles as real or fake by preprocessing text data, extracting features, training multiple models, and evaluating their performance to identify the best one for fake news detection.
+# Fake-News-Detection-using-Machine-Learning
+Fake News Detection using Machine Learning Algorithms
+
+This Project is to solve the problem with fake news. 
+In this we have used two datasets named "Fake" and "True" from Kaggle.
+You can download the file from here https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
+I have used five classifiers in this project the are Naive Bayes, Random Forest, Decision Tree, SVM, Logistic Regression.
